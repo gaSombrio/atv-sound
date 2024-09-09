@@ -77,3 +77,19 @@ header nav ul li {
 header nav a img {
     margin: 0 0 0 5vw;
 }
+section.home {
+	display: flex;
+}
+section.home h2 {
+	font-size: 1.7rem;
+	margin: 5vw 13vw 0 14vw;
+}
+section.home p.principal {
+	font-size: 0.6rem;
+	margin: 5vw 13vw 0 14vw;
+	line-height: 1.1rem;
+}
+section.home p.perfil {
+	font-size: 0.6rem;
+	margin: 5vw 13vw 0 14vw;
+}
